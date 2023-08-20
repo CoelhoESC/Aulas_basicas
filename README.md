@@ -1,2 +1,2 @@
 # Aulas_basicas
- Primeiras aulas com a linguagem python
+ Primeiras aulas com a linguagem python!

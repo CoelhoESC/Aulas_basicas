@@ -1,0 +1,6 @@
+print('Repetindo str = ', 10 * 'Everton')
+print('Juntando str =', 'Everton' + ' ' + 'Coelho' + ' ' + str(22) + ' anos')
+print('Porcetagem (aumento de 100%) em 50 = ', 50 + (50 * 100 / 100))
+print('Porcetagem (diminuição de 100%) em 50 = ', 50 - (50 * 100 / 100))
+print('2 elevado a 10 =', 2 ** 10)
+print('Subração 100 - 5.5 =', 100 - 5.5)
